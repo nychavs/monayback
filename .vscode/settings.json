@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/529b9bae-6c6c-427d-b1ed-13d835fe2a2b/AppServices/subscriptions/529b9bae-6c6c-427d-b1ed-13d835fe2a2b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/monay",
+    "appService.deploySubpath": "."
+}

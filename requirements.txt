@@ -1,5 +1,7 @@
 Django
 whitenoise
+djoser
+djangorestframework-simplejwt==4.8.0
 asgiref==3.5.2
 django-filter==22.1
 django-pictures==1.0rc1
